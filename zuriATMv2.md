@@ -1,8 +1,6 @@
 # Instructions
 Improve on your ATM mockup from last course to include the following:
 
- 
-
 1. Use functions
 
 2. Include register, and login
