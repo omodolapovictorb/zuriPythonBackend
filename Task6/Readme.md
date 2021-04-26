@@ -43,7 +43,7 @@ GOOD LUCK!!!
 <https://zuriblog1.herokuapp.com/>
 
 ### Repo
-<ttps://github.com/omodolapovictorb/zuriBlog>
+<https://github.com/omodolapovictorb/zuriBlog>
 
 ### Todo
 - [ ] Bootstrap styling
