@@ -23,8 +23,9 @@ GOOD LUCK!!!
 
 ## Solution
 ### About zuriBlog
-[zuriBlog](https://zuriblog1.herokuapp.com/) is a blogging website based on python Django framework.
+[zuriBlog](https://zuribloglive.herokuapp.com/) is a blogging website based on python Django framework.
 
+![Code](./img.png)
 ### Feature Checklist
 - [x] User registration/signup page
 - [x] Login
@@ -40,7 +41,7 @@ GOOD LUCK!!!
 - [x] Test Driven Development
 
 ### Heroku
-<https://zuriblog1.herokuapp.com/>
+<https://zuribloglive.herokuapp.com/>
 
 ### Repo
 <https://github.com/omodolapovictorb/zuriBlog>
