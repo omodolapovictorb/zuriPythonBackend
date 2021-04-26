@@ -11,3 +11,5 @@
 ![Screenshot](zuriBudget.png)
 ## Task5 Django Setup
 [Code](./Task5)
+## Task6 CRUD Django task (adding more functionalities to the blog)
+[Code](./Task6)
