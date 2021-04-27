@@ -48,4 +48,3 @@ GOOD LUCK!!!
 
 ### Todo
 - [ ] Bootstrap styling
-- [x] 
