@@ -10,10 +10,10 @@ helloWorld
 ## Task4 ZuriBudget
 [Code](./zuriBudget.py)
 ![Screenshot](zuriBudget.png)
-<<<<<<< HEAD
 ## Task5 Django Setup
 [Code](./Task5)
 ## Task6 CRUD Django task (adding more functionalities to the blog)
 [Code](./Task6)
-=======
->>>>>>> parent of 783f993... Task5
+
+![Code](./Task6/img.png)
+
